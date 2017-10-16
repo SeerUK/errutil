@@ -1,0 +1,2 @@
+# errutil
+Golang error utilities.
